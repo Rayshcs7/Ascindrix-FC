@@ -1,0 +1,5 @@
+<svg viewBox="0 0 100 120" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50 3 L93 15 V58 C93 87 73 107 50 118 C27 107 7 87 7 58 V15 Z" fill="#f5c518"/>
+  <path d="M50 10 L86 20 V58 C86 83 69 100 50 110 C31 100 14 83 14 58 V20 Z" fill="#1b1440"/>
+  <path fill-rule="evenodd" fill="#f5c518" d="M50 28 L75 92 H63.5 L58.8 79 H41.2 L36.5 92 H25 Z M50 50 L44.5 68 H55.5 Z"/>
+</svg>

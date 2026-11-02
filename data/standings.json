@@ -1,0 +1,9 @@
+[
+  { "team": "Stonebridge Athletic", "won": 5, "drawn": 0, "lost": 1, "gf": 13, "ga": 5 },
+  { "team": "Ascindrix FC", "won": 3, "drawn": 1, "lost": 1, "gf": 10, "ga": 6 },
+  { "team": "Northgate Rovers", "won": 2, "drawn": 3, "lost": 1, "gf": 8, "ga": 6 },
+  { "team": "Kingsmead FC", "won": 2, "drawn": 2, "lost": 1, "gf": 7, "ga": 5 },
+  { "team": "Riverside United", "won": 2, "drawn": 1, "lost": 3, "gf": 7, "ga": 9 },
+  { "team": "Lakeside Wanderers", "won": 1, "drawn": 2, "lost": 2, "gf": 5, "ga": 7 },
+  { "team": "Westfield City", "won": 1, "drawn": 1, "lost": 4, "gf": 6, "ga": 12 }
+]

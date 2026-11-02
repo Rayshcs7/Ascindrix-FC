@@ -1,0 +1,182 @@
+[
+  {
+    "number": 1,
+    "name": "Daniel Okoye",
+    "position": "GK",
+    "age": 29,
+    "goals": 0,
+    "assists": 0,
+    "team": "first"
+  },
+  {
+    "number": 13,
+    "name": "Tomas Reyes",
+    "position": "GK",
+    "age": 22,
+    "goals": 0,
+    "assists": 0,
+    "team": "first"
+  },
+  {
+    "number": 2,
+    "name": "Brian Mwangi",
+    "position": "DEF",
+    "age": 26,
+    "goals": 1,
+    "assists": 3,
+    "team": "first"
+  },
+  {
+    "number": 4,
+    "name": "Lucas Ferreira",
+    "position": "DEF",
+    "age": 28,
+    "goals": 2,
+    "assists": 0,
+    "team": "first"
+  },
+  {
+    "number": 5,
+    "name": "Samuel Achieng",
+    "position": "DEF",
+    "age": 24,
+    "goals": 0,
+    "assists": 1,
+    "team": "first"
+  },
+  {
+    "number": 3,
+    "name": "Idris Bello",
+    "position": "DEF",
+    "age": 23,
+    "goals": 0,
+    "assists": 2,
+    "team": "first"
+  },
+  {
+    "number": 6,
+    "name": "Kofi Mensah",
+    "position": "MID",
+    "age": 27,
+    "goals": 3,
+    "assists": 4,
+    "team": "first"
+  },
+  {
+    "number": 8,
+    "name": "Ethan Cole",
+    "position": "MID",
+    "age": 25,
+    "goals": 4,
+    "assists": 6,
+    "team": "first"
+  },
+  {
+    "number": 10,
+    "name": "Marco Silva",
+    "position": "MID",
+    "age": 30,
+    "goals": 5,
+    "assists": 9,
+    "team": "first"
+  },
+  {
+    "number": 7,
+    "name": "Jamal Otieno",
+    "position": "FWD",
+    "age": 21,
+    "goals": 8,
+    "assists": 3,
+    "team": "first"
+  },
+  {
+    "number": 9,
+    "name": "Viktor Hale",
+    "position": "FWD",
+    "age": 27,
+    "goals": 11,
+    "assists": 2,
+    "team": "first"
+  },
+  {
+    "number": 11,
+    "name": "Nathan Wekesa",
+    "position": "FWD",
+    "age": 24,
+    "goals": 6,
+    "assists": 5,
+    "team": "first"
+  },
+  {
+    "number": 21,
+    "name": "Peter Kamau",
+    "position": "GK",
+    "age": 19,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 22,
+    "name": "Hassan Abdi",
+    "position": "DEF",
+    "age": 20,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 23,
+    "name": "Leo Mutiso",
+    "position": "DEF",
+    "age": 19,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 24,
+    "name": "Carlos Mendes",
+    "position": "DEF",
+    "age": 21,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 25,
+    "name": "Felix Ouma",
+    "position": "MID",
+    "age": 20,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 26,
+    "name": "Daniel Kiprop",
+    "position": "MID",
+    "age": 19,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 27,
+    "name": "Tariq Nasser",
+    "position": "FWD",
+    "age": 20,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  },
+  {
+    "number": 28,
+    "name": "Gabriel Njoroge",
+    "position": "FWD",
+    "age": 18,
+    "goals": 0,
+    "assists": 0,
+    "team": "reserves"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "m1",
+    "date": "2026-09-12T15:00:00Z",
+    "opponent": "Riverside United",
+    "home": true,
+    "competition": "League",
+    "venue": "Ember Park",
+    "score": {
+      "for": 3,
+      "against": 1
+    }
+  },
+  {
+    "id": "m2",
+    "date": "2026-09-19T14:00:00Z",
+    "opponent": "Northgate Rovers",
+    "home": false,
+    "competition": "League",
+    "venue": "Northgate Ground",
+    "score": {
+      "for": 1,
+      "against": 1
+    }
+  },
+  {
+    "id": "m3",
+    "date": "2026-09-26T15:00:00Z",
+    "opponent": "Harbour Town",
+    "home": true,
+    "competition": "Cup",
+    "venue": "Ember Park",
+    "score": {
+      "for": 2,
+      "against": 0
+    }
+  },
+  {
+    "id": "m4",
+    "date": "2026-10-03T15:00:00Z",
+    "opponent": "Stonebridge Athletic",
+    "home": false,
+    "competition": "League",
+    "venue": "Stonebridge Road",
+    "score": {
+      "for": 0,
+      "against": 2
+    }
+  },
+  {
+    "id": "m5",
+    "date": "2026-10-10T15:00:00Z",
+    "opponent": "Westfield City",
+    "home": true,
+    "competition": "League",
+    "venue": "Ember Park",
+    "score": {
+      "for": 4,
+      "against": 2
+    },
+    "status": "full_time",
+    "lineup": {
+      "starting": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        7,
+        9,
+        11
+      ],
+      "bench": [
+        13,
+        25,
+        26,
+        27
+      ]
+    },
+    "events": [
+      {
+        "id": "e1",
+        "type": "kickoff",
+        "minute": 0
+      },
+      {
+        "id": "e2",
+        "type": "goal",
+        "minute": 12,
+        "side": "us",
+        "player": 9
+      },
+      {
+        "id": "e3",
+        "type": "goal",
+        "minute": 27,
+        "side": "them",
+        "name": "J. Pratt"
+      },
+      {
+        "id": "e4",
+        "type": "goal",
+        "minute": 38,
+        "side": "us",
+        "player": 7
+      },
+      {
+        "id": "e5",
+        "type": "halftime",
+        "minute": 45
+      },
+      {
+        "id": "e6",
+        "type": "secondhalf",
+        "minute": 46
+      },
+      {
+        "id": "e7",
+        "type": "goal",
+        "minute": 52,
+        "side": "them",
+        "name": "L. Ashby"
+      },
+      {
+        "id": "e8",
+        "type": "yellow",
+        "minute": 55,
+        "side": "us",
+        "player": 4
+      },
+      {
+        "id": "e9",
+        "type": "goal",
+        "minute": 61,
+        "side": "us",
+        "player": 10,
+        "player2": 8
+      },
+      {
+        "id": "e10",
+        "type": "sub",
+        "minute": 65,
+        "side": "us",
+        "player": 7,
+        "player2": 27
+      },
+      {
+        "id": "e11",
+        "type": "sub",
+        "minute": 72,
+        "side": "us",
+        "player": 8,
+        "player2": 25
+      },
+      {
+        "id": "e12",
+        "type": "goal",
+        "minute": 78,
+        "side": "us",
+        "player": 9,
+        "player2": 11
+      },
+      {
+        "id": "e13",
+        "type": "fulltime",
+        "minute": 90
+      }
+    ]
+  },
+  {
+    "id": "m6",
+    "date": "2026-10-24T15:00:00Z",
+    "opponent": "Kingsmead FC",
+    "home": true,
+    "competition": "League",
+    "venue": "Ember Park"
+  },
+  {
+    "id": "m7",
+    "date": "2026-10-31T14:30:00Z",
+    "opponent": "Lakeside Wanderers",
+    "home": false,
+    "competition": "League",
+    "venue": "Lakeside Stadium"
+  },
+  {
+    "id": "m8",
+    "date": "2026-11-07T15:00:00Z",
+    "opponent": "Harbour Town",
+    "home": false,
+    "competition": "Cup",
+    "venue": "Harbour Field"
+  }
+]
